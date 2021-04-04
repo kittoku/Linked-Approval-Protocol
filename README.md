@@ -2,7 +2,7 @@
 Simple protocol for approving contents in time series.
 
 ## Diagram
-<img src="https://github.com/kittoku/Linked-Approval-Protocol/raw/master/images/diagram.png" width=75%>
+<img src="images/diagram.png" width=75%>
 
 ## Specification
 [here](specification.md)
